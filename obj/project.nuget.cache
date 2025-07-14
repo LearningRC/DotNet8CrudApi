@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJby4Z4KAmc=",
+  "success": true,
+  "projectFilePath": "/Users/raghavendra/Downloads/DotNet8CrudApi/DotNet8CrudApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/raghavendra/RiderProjects/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/raghavendra/RiderProjects/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/raghavendra/RiderProjects/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

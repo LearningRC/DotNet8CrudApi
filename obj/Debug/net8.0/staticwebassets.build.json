@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GF9q10Zy4GkRK7C26wzD3tyb4Hcx7blsxCppuAPJDsU=",
+  "Source": "DotNet8CrudApi",
+  "BasePath": "_content/DotNet8CrudApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
