@@ -1,0 +1,22 @@
+{
+  "family": "dotnet8-task",
+  "networkMode": "awsvpc",
+  "requiresCompatibilities": ["FARGATE"],
+  "cpu": "256",
+  "memory": "512",
+  "executionRoleArn": "arn:aws:iam::685645913248:role/ecsTaskExecutionRole",
+  "containerDefinitions": [
+    {
+      "name": "dotnet8-app",
+      "image": "",
+      "portMappings": [
+        {
+          "containerPort": 80,
+          "hostPort": 80,
+          "protocol": "tcp"
+        }
+      ],
+      "essential": true
+    }
+  ]
+}
